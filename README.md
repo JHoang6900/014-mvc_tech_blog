@@ -1,5 +1,5 @@
 # 014-mvc-tech_blog
-Tech Blog
+Tech Blog: Deployed Link: https://mvc-tech-blog-014.herokuapp.com/
 
 ## User Story
 
